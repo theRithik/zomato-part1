@@ -1,0 +1,20 @@
+.select{
+    padding-left: 250px;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    
+}
+.background{
+    background-image: url(./table.webp);
+}
+
+.heading{
+    
+    font-size: 50px;
+   text-align: center;
+   color: #eee;
+   position: relative;
+   top:50px;
+
+}

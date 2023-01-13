@@ -1,0 +1,34 @@
+.card{
+ box-shadow: 5px 10px grey;
+ margin-bottom: 40px;
+ display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    padding: 40px;
+
+}
+.quick{
+    display: inline-block;
+    padding: 50px;
+}
+
+.main{
+    display: inline-block;
+}
+
+img{
+    height: 200px;
+}
+
+h4{
+    color:grey;
+    padding: 10px;
+    padding-left: 20px;
+}
+h2{
+    padding: 20px;
+    padding-bottom: 0;
+}
